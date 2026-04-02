@@ -1,5 +1,5 @@
 # Automated AI Call Center — Healthcare
-
+https://github.com/user-attachments/assets/f766a0fa-d2f6-45ff-88e5-c6fd9a2f841a
 An intelligent call-center style system for healthcare: **voice-first interaction**, **multi-agent routing**, and **structured actions** against appointments, prescriptions, and medical knowledge. The stack pairs a **React (Vite)** operator console with a **Python** backend built on **LangChain**, **Groq**, **Supabase**, and optional **Neo4j** graph RAG.
 
 ---
